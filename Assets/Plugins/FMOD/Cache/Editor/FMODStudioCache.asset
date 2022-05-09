@@ -1,0 +1,851 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9117409889166377374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SoundStudents.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/cunkdFmodAudio/cunkd/Build/Desktop/SoundStudents.bank
+  Name: SoundStudents
+  StudioPath: bank:/SoundStudents
+  lastModified: 637876926462730337
+  FileSizes:
+  - Name: Desktop
+    Value: 8242624
+  Exists: 1
+--- !u!114 &-8384505400141003150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Orkestersynt_exempel
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Orkestersynt_exempel
+  Guid:
+    Data1: 1282543661
+    Data2: 1282066713
+    Data3: 648103311
+    Data4: 2080099449
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 47307
+--- !u!114 &-7541344295675922919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherChargeLoop
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherChargeLoop
+  Guid:
+    Data1: -917405668
+    Data2: 1111614619
+    Data3: -1723361603
+    Data4: 1038574442
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 136
+--- !u!114 &-7281419560475378051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/Gadgets/Teleporter
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/Gadgets/Teleporter
+  Guid:
+    Data1: 1558642507
+    Data2: 1173446679
+    Data3: 1376997790
+    Data4: -1230783278
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1344
+--- !u!114 &-7182520873926205212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherRelease
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherRelease
+  Guid:
+    Data1: -370943052
+    Data2: 1151387934
+    Data3: 1664018569
+    Data4: 1671217749
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1059
+--- !u!114 &-6651746229088424414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Exempel_2
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Exempel_2
+  Guid:
+    Data1: -1731170888
+    Data2: 1109352051
+    Data3: -1541816684
+    Data4: 1458721361
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 41482
+--- !u!114 &-6406166296414076023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Exempel_1
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Exempel_1
+  Guid:
+    Data1: -1691968845
+    Data2: 1267823350
+    Data3: -923916153
+    Data4: -1033961331
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 37773
+--- !u!114 &-6166375624236924790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Gravity Gun/Grab Object
+  m_EditorClassIdentifier: 
+  Name: Grab Object
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2015625004
+    data2: 398445947
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5582535556635883839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Level 1 Theme
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Level 1 Theme
+  Guid:
+    Data1: 1048134225
+    Data2: 1264763775
+    Data3: 1783585690
+    Data4: 1083057794
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4557622899293141100}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 60000
+--- !u!114 &-5171805990130510692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Sketch1
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Sketch1
+  Guid:
+    Data1: -1042973258
+    Data2: 1209547931
+    Data3: -2144670328
+    Data4: -529717757
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 76982
+--- !u!114 &-4009608807842014699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/cunkdFmodAudio/cunkd/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637876926462710632
+  FileSizes:
+  - Name: Desktop
+    Value: 1486
+  Exists: 1
+--- !u!114 &-3879408666750540850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/Weapons/Reload
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/Weapons/Reload
+  Guid:
+    Data1: -647993982
+    Data2: 1236842549
+    Data3: -1439569018
+    Data4: -1250569757
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1008
+--- !u!114 &-2315145239825758458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/Weapons/Black Hole
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/Weapons/Black Hole
+  Guid:
+    Data1: 2057260479
+    Data2: 1205948219
+    Data3: 819580032
+    Data4: 2092371015
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 17556
+--- !u!114 &-1877830587316740256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/ShotgunShot
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/ShotgunShot
+  Guid:
+    Data1: -1225565018
+    Data2: 1254057265
+    Data3: -113160782
+    Data4: -27521062
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 977
+--- !u!114 &-1504512270554116171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Upbeathappy
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Upbeathappy
+  Guid:
+    Data1: -222042812
+    Data2: 1133657713
+    Data3: -553714812
+    Data4: -1917596391
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 60055
+--- !u!114 &-1282633105121590360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Gravity Gun/Shot away object
+  m_EditorClassIdentifier: 
+  Name: Shot away object
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2969255922
+    data2: 1605812714
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 5586813748790240653}
+  - {fileID: -4009608807842014699}
+  - {fileID: 6215833073679708904}
+  - {fileID: -9117409889166377374}
+  EditorEvents:
+  - {fileID: -7541344295675922919}
+  - {fileID: 7665340027604366670}
+  - {fileID: 8012275658354996021}
+  - {fileID: 4449139576997167707}
+  - {fileID: -1877830587316740256}
+  - {fileID: -7182520873926205212}
+  - {fileID: 7181227390963810115}
+  - {fileID: 5524279798629090014}
+  - {fileID: 1164970971671021303}
+  - {fileID: 8118680730745423876}
+  - {fileID: 1342973385744496612}
+  - {fileID: -8384505400141003150}
+  - {fileID: 1865453186038873604}
+  - {fileID: -1504512270554116171}
+  - {fileID: -7281419560475378051}
+  - {fileID: -5582535556635883839}
+  - {fileID: 1922173762556320520}
+  - {fileID: -3879408666750540850}
+  - {fileID: -6406166296414076023}
+  - {fileID: -5171805990130510692}
+  - {fileID: -6651746229088424414}
+  - {fileID: -2315145239825758458}
+  - {fileID: 1652349607512932505}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -4009608807842014699}
+  StringsBanks:
+  - {fileID: 5586813748790240653}
+  cacheTime: 637876926462730337
+  cacheVersion: 10
+--- !u!114 &1164970971671021303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Actions/Jump/QuakeJump
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Actions/Jump/QuakeJump
+  Guid:
+    Data1: 191586290
+    Data2: 1331025513
+    Data3: -2101925983
+    Data4: 295183764
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 560
+--- !u!114 &1342973385744496612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/Weapons/BlackHoleGun
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/Weapons/BlackHoleGun
+  Guid:
+    Data1: 59597841
+    Data2: 1101432860
+    Data3: 544028324
+    Data4: 1154619786
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19056
+--- !u!114 &1652349607512932505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/Music/Chill_kor_exempel
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/Music/Chill_kor_exempel
+  Guid:
+    Data1: -1995897866
+    Data2: 1118184324
+    Data3: -348730710
+    Data4: 2120132884
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19147
+--- !u!114 &1865453186038873604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/Weapons/Pickup
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/Weapons/Pickup
+  Guid:
+    Data1: 358150976
+    Data2: 1327221949
+    Data3: 1520691597
+    Data4: -462556567
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 980
+--- !u!114 &1922173762556320520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/2D SFX/Score
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/2D SFX/Score
+  Guid:
+    Data1: -1619036317
+    Data2: 1274033265
+    Data3: -1462968676
+    Data4: -480894985
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 760
+--- !u!114 &4449139576997167707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherExplosion
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherExplosion
+  Guid:
+    Data1: 1969524628
+    Data2: 1324819957
+    Data3: -428734025
+    Data4: 1000598067
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 767
+--- !u!114 &4557622899293141100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level 1 Theme/Players Left
+  m_EditorClassIdentifier: 
+  Name: Players Left
+  StudioPath: 
+  Min: 2
+  Max: 8
+  Default: 8
+  ID:
+    data1: 2205627894
+    data2: 3652424722
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5524279798629090014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Ambience/FPS_Microgame/WindAmbience
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Ambience/FPS_Microgame/WindAmbience
+  Guid:
+    Data1: -806784807
+    Data2: 1308458740
+    Data3: 58343863
+    Data4: -1886301696
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 38592
+--- !u!114 &5586813748790240653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/cunkdFmodAudio/cunkd/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637876926462712044
+  FileSizes:
+  - Name: Desktop
+    Value: 2424
+  Exists: 1
+--- !u!114 &6215833073679708904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/PlaceholderAudio.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/cunkdFmodAudio/cunkd/Build/Desktop/PlaceholderAudio.bank
+  Name: PlaceholderAudio
+  StudioPath: bank:/PlaceholderAudio
+  lastModified: 637876926462713673
+  FileSizes:
+  - Name: Desktop
+    Value: 418464
+  Exists: 1
+--- !u!114 &7181227390963810115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/WeaponCooling
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/WeaponCooling
+  Guid:
+    Data1: 860221384
+    Data2: 1165944750
+    Data3: 607737523
+    Data4: -989400494
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5496
+--- !u!114 &7237723504588832672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Gravity Gun/Object recived start loading
+  m_EditorClassIdentifier: 
+  Name: Object recived start loading
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1824280665
+    data2: 809506770
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7665340027604366670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/BlasterShot
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/BlasterShot
+  Guid:
+    Data1: 1577735516
+    Data2: 1314021776
+    Data3: 1828906413
+    Data4: 1611039270
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1527
+--- !u!114 &8012275658354996021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherChargeBuildUp
+  m_EditorClassIdentifier: 
+  Path: event:/PlaceholderAudio/Weapons/FPS_Microgame/Launcher/LauncherChargeBuildUp
+  Guid:
+    Data1: -1084252786
+    Data2: 1216679020
+    Data3: 732824494
+    Data4: -536744078
+  Banks:
+  - {fileID: 6215833073679708904}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1463
+--- !u!114 &8118680730745423876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundStudents/SFX/Weapons/Gravity Gun
+  m_EditorClassIdentifier: 
+  Path: event:/SoundStudents/SFX/Weapons/Gravity Gun
+  Guid:
+    Data1: -615780600
+    Data2: 1132396401
+    Data3: -1258311286
+    Data4: -1043482154
+  Banks:
+  - {fileID: -9117409889166377374}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -1282633105121590360}
+  - {fileID: 7237723504588832672}
+  - {fileID: -6166375624236924790}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 69052
